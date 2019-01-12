@@ -6,17 +6,29 @@ namespace FibonacciSeq
     {
         static void Main(string[] args)
         {
-            //Use an int[] to store results
-            Fibonacci.FibFromToReturnArray(10);
-            Fibonacci.NthNumberArray(11);
+            IFibonacciGenerator arrayVer = new FibonacciSeqArrayVersion();
+            IFibonacciGenerator ListVer = new FibonacciGeneratorListVer();
+            IFibonacciGenerator LinkedListVer = new FibonacciGeneratorLinkedListVer();
 
-            //Use a list to store results
-            Fibonacci.FibFromToReturnList(10);
-            Fibonacci.NthNumberReturnList(10);
+            //Array Verions
+            DisplayAllValues(arrayVer, 10);
+            NthValue(arrayVer, 10);
+            //ListVer
+            DisplayAllValues(ListVer, 10);
+            NthValue(ListVer, 10);
+            //LinkedListVer
+            DisplayAllValues(LinkedListVer, 10);
+            NthValue(LinkedListVer, 10);
 
-            //Use a linkedlist to store results
-            Fibonacci.FibFromToReturnLinkedList(10);
-            Fibonacci.NthNumberReturnLinkedList(10);
+
+        }
+        private static void DisplayAllValues(IFibonacciGenerator fib, int range)
+        {
+            fib.FibFrom(range);
+        }
+        private static void NthValue(IFibonacciGenerator fib, int range)
+        {
+            fib.NthNumber(range);
         }
     }
 }

@@ -7,3 +7,12 @@
 /home/dan/Documents/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.dll
 /home/dan/Documents/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.pdb
 /home/dan/Documents/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.csprojResolveAssemblyReference.cache
+/home/dan/Projects/FibonacciSeq/bin/Debug/netcoreapp1.1/FibonacciSeq.deps.json
+/home/dan/Projects/FibonacciSeq/bin/Debug/netcoreapp1.1/FibonacciSeq.runtimeconfig.json
+/home/dan/Projects/FibonacciSeq/bin/Debug/netcoreapp1.1/FibonacciSeq.runtimeconfig.dev.json
+/home/dan/Projects/FibonacciSeq/bin/Debug/netcoreapp1.1/FibonacciSeq.dll
+/home/dan/Projects/FibonacciSeq/bin/Debug/netcoreapp1.1/FibonacciSeq.pdb
+/home/dan/Projects/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.csprojResolveAssemblyReference.cache
+/home/dan/Projects/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.AssemblyInfo.cs
+/home/dan/Projects/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.dll
+/home/dan/Projects/FibonacciSeq/obj/Debug/netcoreapp1.1/FibonacciSeq.pdb

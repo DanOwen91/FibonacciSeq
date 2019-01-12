@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dan/Documents/FibonacciSeq/FibonacciSeq.csproj",
+      "projectUniqueName": "/home/dan/Projects/FibonacciSeq/FibonacciSeq.csproj",
       "projectName": "FibonacciSeq",
-      "projectPath": "/home/dan/Documents/FibonacciSeq/FibonacciSeq.csproj",
-      "outputPath": "/home/dan/Documents/FibonacciSeq/obj/",
+      "projectPath": "/home/dan/Projects/FibonacciSeq/FibonacciSeq.csproj",
+      "outputPath": "/home/dan/Projects/FibonacciSeq/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/FibonacciSeq.dll": "/home/dan/Documents/FibonacciSeq/bin/placeholder/netcoreapp1.1/FibonacciSeq.dll"
+        "lib/netcoreapp1.1/FibonacciSeq.dll": "/home/dan/Projects/FibonacciSeq/bin/placeholder/netcoreapp1.1/FibonacciSeq.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
